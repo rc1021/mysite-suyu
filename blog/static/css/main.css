@@ -1436,30 +1436,17 @@
 				width: 10em;
 			}
 
-#menu {
-	width: 1200px;
-	height: 55px;
-	margin: 0px auto;
-	padding: 0px;
+.navbar-fixed {
+	padding-top: 3.4rem;
 }
 
-#menu ul {
-	margin: 0;
-	padding: 10px 0px 0px 0px;
-	list-style: none;
-	line-height: normal;
-	text-align: center;
+#menu {
+	width: 100%;
 }
 
 #menu li {
-	display: inline-block;
 	border-left: 1px solid #3394B5;
 }
-
-	#menu li:first-child
-	{
-		border-left: none;
-	}
 
 #menu a {
 	display: block
